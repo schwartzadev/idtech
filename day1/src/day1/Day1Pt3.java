@@ -1,5 +1,5 @@
 package day1;
-
+//find the similarities between three numbers
 public class Day1Pt3 {
 	public static void main(String[] args){
 		int i = 4;

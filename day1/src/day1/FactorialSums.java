@@ -1,7 +1,7 @@
 package day1;
 
 import java.util.Scanner;
-
+//find the sum of the digits of the factorial of a user-inputed number. Only works for numbers less than 17
 public class FactorialSums {
 	public static void main(String[] args){
 		System.out.println("Choose a number (x) to run find the sum of the digits of x!");

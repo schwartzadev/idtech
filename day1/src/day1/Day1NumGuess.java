@@ -1,7 +1,7 @@
 package day1;
 import java.util.Random;
 import java.util.Scanner;
-
+//Rock paper scissors, player v. computer
 public class Day1NumGuess {
 	public static void main(String[] args){
 	System.out.println("Welcome to Rock Paper Scissors.");

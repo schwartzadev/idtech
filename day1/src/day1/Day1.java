@@ -1,5 +1,5 @@
 package day1;
-
+//basic mathmatical operations on two integers
 public class Day1 {
 	public static void main(String[] args){
 		// declare variables
