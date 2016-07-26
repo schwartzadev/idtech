@@ -1,7 +1,7 @@
 package day2;
 
 import java.util.Scanner;
-
+//print a pyramid of "#" with a scanner to prompt the pyramid depth
 public class PyramidPrinter {
 
 	public static void main(String[] args){

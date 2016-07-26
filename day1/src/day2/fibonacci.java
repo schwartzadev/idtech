@@ -1,5 +1,5 @@
 package day2;
-
+//NOT MY CODE!! Copied from Stack Exchange, works fine.
 public class fibonacci {
 	
 	private static int index = 0;  
