@@ -20,7 +20,7 @@ public class PyramidPrinter {
 					System.out.print ("#");
 				}
 			System.out.println ("");
-			runNum = (i * 2) - 1;
+			runNum = i * 2 - 1;
 			spaces = depth - i;
 		}
 	}

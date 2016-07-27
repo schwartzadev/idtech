@@ -2,9 +2,9 @@ package day1;
 //find the similarities between three numbers
 public class Day1Pt3 {
 	public static void main(String[] args){
-		int i = 4;
-		int j = 5;
-		int k = 5;
+		int i = 7;
+		int j = 15;
+		int k = 7;
 			if((i==k) && (i==j)) {
 				System.out.println ("all are equal");
 			}

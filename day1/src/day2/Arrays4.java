@@ -5,7 +5,7 @@ public class Arrays4 {
 	public static void main(String[] args){
 		int y = 0;
 		int top = 0;
-		int [] num = {-50, 6, 5, 4, 80, 90, 100};
+		int [] num = {4, 6, 5, 2};
 		int [] newNum = new int[num.length];
 
 		System.out.print("ORIGINAL ARRAY: ");
@@ -18,6 +18,7 @@ public class Arrays4 {
 				top = num[i];
 			}
 		}
+		
 		for (int i=0; i<(num.length); i++){
 			top = num[i];
 			newNum[y] = top;
