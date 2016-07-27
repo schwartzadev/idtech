@@ -5,7 +5,7 @@ public class ArraysIntro3 {
 	public static void main(String[] args){
 		int x = 0;
 		int top = 0;
-		int [] num = {-50, 6, 5, 4, 80, 90, 100};
+		int [] num = {500, 6, 5, 4, 80, 90, 100};
 
 		System.out.print("ARRAY: ");
 		for (int i=0; i<num.length; i++){
