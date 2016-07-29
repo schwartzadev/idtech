@@ -11,7 +11,7 @@ public class NumGuess {
 			Scanner scanner = new Scanner(System.in);
 			move = scanner.nextInt();
 			if (move == 1 || move == 2) {
-				System.out.println("Wrong.");
+				System.out.println("Nice Try!");
 			}
 			else {
 				System.out.println("Invalid.");
